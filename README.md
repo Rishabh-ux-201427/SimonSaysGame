@@ -1,1 +1,2 @@
 # SimonSaysGame
+Hello this is a simon says game. Enjoy!
